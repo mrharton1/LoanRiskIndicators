@@ -8,7 +8,7 @@ The analysis involved the following steps:
 
     Data was loaded into MariaDB and cleaned.
     Relevant tables and attributes were identified.
-    SQL code was used to filter the data and generate results.
+    SQL scripts were used to filter the data and generate results.
     The resulting table was exported to Excel/Pandas for visualization.
 
 The findings suggest that both the presence of a disponent and monthly credit variation are crucial indicators for loan risk assessment. Accounts with a disponent had a 0% bad loan rate, while accounts without a disponent had a 14% bad loan rate. Higher monthly credit variation indicates increased risk of bad loans.
